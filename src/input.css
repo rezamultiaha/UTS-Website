@@ -28,8 +28,3 @@ body {
 .button-primary {
   @apply font-medium text-sm px-6 py-2 bg-primary rounded-full text-white lg:px-8 lg:py-4;
 }
-
-.banner-hero {
-  background: url(dist/img/hero.png);
-  background-size: cover;
-}
